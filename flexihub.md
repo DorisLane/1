@@ -1,5 +1,6 @@
 # FlexiHub
-##Software as a service for accessing USB devices connected to remote computers over the Internet##
+##Software as a service for accessing USB devices connected to remote computers over the Internet
+
 FlexiHub is a software as a service for redirecting all types of USB devices over the network and accessing remote USB devices over the Internet. It is a subdivision of Electronic Team, Inc. and has remained the flagship product since it was presented in 2014.
 
 FlexiHub is a convenient software service for individuals, small teams, and major organizations that supports all of the key connection protocols:
